@@ -1,0 +1,2 @@
+pip install langgraph langchain-core langchain-community langchain-openai
+pip install requests pydantic-settings ffmpeg-python volcengine-python-sdk[ark] dashscope
